@@ -2,7 +2,7 @@
 # 🎙️ CloudSoundboard (Beta v0.1.0)
 Developed by **Ex0 Studios**
 
-A shared cloud soundboard desktop app for Windows. Users share a library of sounds in real time - uploading a new sound instantly shows it to everyone else via WebSocket. Sounds can be played to a virtual audio cable (for Discord) using global keyboard shortcuts.
+A shared cloud soundboard desktop app for Windows. Users share a library of sounds in real time - uploading a new sound instantly shows it to everyone else via WebSocket. Sounds can be played to a virtual audio cable (for Discord or someone game) using global keyboard shortcuts.
 
 ---
 
@@ -243,15 +243,18 @@ npm run dist
 | Hotkeys | Electron globalShortcut |
 | Build | Vite 5, electron-builder |
 
----
-
-## 💬 Community & Feedback
-
-Want to share sounds, report technical issues, or coordinate with the beta group? Join us:
-👉 **[Join the Official Ex0 Studios Discord Server](https://www.google.com/search?q=https://discord.gg/YOUR_DISCORD_INVITE_CODE)**
 
 ---
 
+## 💬 Community & Downloads
+
+Get the official compiled builds or join our dev team:
+
+📦 **[Download Latest Installer (.exe)](https://github.com/Exo-Studios-Code/Exo-Soundboard/releases/tag/0.1.0)**
+
+👉 **[Join the Official Ex0 Studios Discord Server](https://discord.gg/b5B9tzHNEv)**
+
+---
 ## License
 
 This project is maintained as an open beta under the **MIT License** by **Ex0 Studios**. See the project files for full licensing terms.
