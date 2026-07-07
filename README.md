@@ -3,6 +3,7 @@
 Developed by **Ex0 Studios**
 
 A shared cloud soundboard desktop app for Windows. Users share a library of sounds in real time - uploading a new sound instantly shows it to everyone else via WebSocket. Sounds can be played to a virtual audio cable (for Discord or someone game) using global keyboard shortcuts.
+<img width="1899" height="1029" alt="obrazek" src="https://github.com/user-attachments/assets/85b38faf-5b6a-48a8-8da0-17408fd1285f" />
 
 ---
 
