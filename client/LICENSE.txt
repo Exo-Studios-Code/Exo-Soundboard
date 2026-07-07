@@ -1,0 +1,24 @@
+END USER LICENSE AGREEMENT (EULA)
+Licenční ujednání s koncovým uživatelem pro software CloudSoundboard
+
+PŘED POUŽITÍM TOHOTO SOFTWARU SI PEČLIVĚ PŘEČTĚTE TOTO LICENČNÍ UJEDNÁNÍ. INSTALACÍ, KOPÍROVÁNÍM NEBO JINÝM POUŽÍVÁNÍM SOFTWARU SOUHLASÍTE S TÍM, ŽE JSTE VÁZÁNI PODMÍNKAMI TÉTO SMLOUVY. POKUD S PODMÍNKAMI NESOUHLASÍTE, SOFTWARE NEINSTALUJTE ANI NEPOUŽÍVEJTE.
+
+1. UDĚLENÍ LICENCE
+Autor (vývojář) vám tímto uděluje osobní, nevýhradní, nepřenosnou a bezplatnou licenci k instalaci a používání softwaru CloudSoundboard (dále jen "Software") pro osobní a nekomerční účely.
+
+2. OMEZENÍ AUTORSKÝCH PRÁV
+Software je chráněn autorským právem. Jste oprávněni Software sdílet s třetími stranami (např. přáteli) v jeho původní, neupravené podobě. Není povoleno Software prodávat, pronajímat, zahrnovat do komerčních balíčků nebo si přivlastňovat jeho autorství. Je přísně zakázáno Software dekompilovat, provádět reverzní inženýrství nebo jinak zasahovat do zdrojového kódu (s výjimkou případů, kdy to výslovně povoluje příslušný zákon).
+
+3. VYLOUČENÍ ZÁRUK (DISCLAIMER)
+Software je poskytován "TAK, JAK JE" (AS IS), bez jakýchkoli záruk, ať už výslovných nebo předpokládaných. Autor nezaručuje, že Software bude fungovat nepřetržitě, bez chyb, nebo že bude kompatibilní se všemi systémy a hardwarem. Veškeré riziko spojené s kvalitou a výkonem Softwaru nesete vy.
+
+4. OMEZENÍ ODPOVĚDNOSTI
+V maximálním rozsahu povoleném platnými právními předpisy nenese autor v žádném případě odpovědnost za jakékoli přímé, nepřímé, náhodné, zvláštní nebo následné škody (včetně, ale nikoli výhradně, škod ze ztráty zisku, přerušení provozu, ztráty dat nebo poškození hardwaru) vzniklé v důsledku používání nebo nemožnosti používat tento Software, a to i v případě, že autor byl na možnost takových škod upozorněn.
+
+5. ROZHODNÉ PRÁVO
+Toto licenční ujednání se řídí a je vykládáno v souladu s právním řádem České republiky.
+
+Instalací a používáním tohoto Softwaru výslovně potvrzujete, že jste si toto ujednání přečetli, porozuměli mu a souhlasíte s jeho podmínkami.
+
+Verze: 1.0.0
+Rok: 2026

@@ -1,0 +1,64 @@
+{
+  "appId": "com.cloudsoundboard.app",
+  "productName": "CloudSoundboard",
+  "copyright": "Copyright © 2026",
+
+  "directories": {
+    "output": "release",
+    "buildResources": "assets"
+  },
+
+  "files": [
+    "dist/**/*",
+    "assets/**/*",
+    "!assets/icon.png",
+    "node_modules/**/*",
+    "!node_modules/.cache/**/*"
+  ],
+
+  "extraResources": [
+    {
+      "from": "assets/",
+      "to": "assets/",
+      "filter": ["**/*"]
+    }
+  ],
+
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": ["x64"]
+      },
+      {
+        "target": "portable",
+        "arch": ["x64"]
+      }
+    ],
+    "icon": "assets/icon.ico",
+    "requestedExecutionLevel": "asInvoker",
+    "artifactName": "${productName}-Setup-${version}.${ext}"
+  },
+
+  "nsis": {
+    "oneClick": false,
+    "perMachine": false,
+    "allowToChangeInstallationDirectory": true,
+    "deleteAppDataOnUninstall": false,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "CloudSoundboard",
+    "installerIcon": "assets/icon.ico",
+    "uninstallerIcon": "assets/icon.ico",
+    "installerHeaderIcon": "assets/icon.ico",
+    "license": "LICENSE.txt",
+    "language": "1029",
+    "include": "assets/installer.nsh"
+  },
+
+  "portable": {
+    "artifactName": "${productName}-Portable-${version}.${ext}"
+  },
+
+  "publish": null
+}
